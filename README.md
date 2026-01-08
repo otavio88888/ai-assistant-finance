@@ -1,2 +1,2 @@
 # ai-assistant-finance
-AI assistant BR
+AI assistant Analise de dados CVM Brasil
